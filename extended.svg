@@ -1,0 +1,70 @@
+<svg version="1.1" baseProfile="full" width="146.0" height="282.0" viewbox="0 0 146 282" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+<desc >[&lt;table&gt;task1|TicketID1||TicketID2]
+[&lt;table&gt;task2|TicketID3||TicketID4]
+[task1]-&gt;[task2]</desc>
+<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="normal" font-style="normal">
+<g transform="translate(0.5, 0.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+<g stroke="transparent" fill="transparent">
+<rect x="0.0" y="0.0" height="282.0" width="146.0" stroke="none"></rect>
+</g>
+<g transform="translate(8, 8)" fill="#33322E">
+<g transform="translate(20, 20)" fill="#33322E" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal">
+<path d="M45.0 93.0 L45 113 L45 126.33333333333333 L45.0 126.3 " fill="none"></path>
+<path d="M39.7 119.7 L45.0 126.3 L50.3 119.7 L45.0 133.0 Z"></path>
+<g data-name="task1">
+<g fill="#eee8d5" stroke="#33322E" data-name="task1">
+<rect x="0.0" y="0.0" height="93.0" width="90.0" data-name="task1"></rect>
+<path d="M0.0 31.0 L0.0 31.0" fill="none" data-name="task1"></path>
+<path d="M0.0 31.0 L90.0 31.0" fill="none" data-name="task1"></path>
+<path d="M0.0 62.0 L90.0 62.0" fill="none" data-name="task1"></path>
+<path d="M90.0 31.0 L90.0 93.0" fill="none" data-name="task1"></path>
+</g>
+<g transform="translate(0, 0)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="task1">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="task1">
+<text x="37.0" y="13.5" stroke="none" text-anchor="middle" data-name="task1">task1</text>
+</g>
+</g>
+<g transform="translate(0, 31)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="task1">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="task1">
+<text x="0.0" y="13.5" stroke="none" data-name="task1"><a href="https://www.google.com/search?TicketID1" target = "_blank">TicketID1</a><title>TicketID1: Description of a software problem
+To Do (Programmer 1)</title></text>
+</g>
+</g>
+<g transform="translate(0, 62)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="task1">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="task1">
+<text x="0.0" y="13.5" stroke="none" data-name="task1"><a href="https://www.google.com/search?TicketID2" target = "_blank">TicketID2</a><title>TicketID2: Another description
+To Do (Programmer 2)</title></text>
+</g>
+</g>
+</g>
+<g data-name="task2">
+<g fill="#eee8d5" stroke="#33322E" data-name="task2">
+<rect x="0.0" y="133.0" height="93.0" width="90.0" data-name="task2"></rect>
+<path d="M0.0 164.0 L0.0 164.0" fill="none" data-name="task2"></path>
+<path d="M0.0 164.0 L90.0 164.0" fill="none" data-name="task2"></path>
+<path d="M0.0 195.0 L90.0 195.0" fill="none" data-name="task2"></path>
+<path d="M90.0 164.0 L90.0 226.0" fill="none" data-name="task2"></path>
+</g>
+<g transform="translate(0, 133)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="task2">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="task2">
+<text x="37.0" y="13.5" stroke="none" text-anchor="middle" data-name="task2">task2</text>
+</g>
+</g>
+<g transform="translate(0, 164)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="task2">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="task2">
+<text x="0.0" y="13.5" stroke="none" data-name="task2"><a href="https://www.google.com/search?TicketID3" target = "_blank">TicketID3</a><title>TicketID3: And yet another description
+Done (Programmer 3)</title></text>
+</g>
+</g>
+<g transform="translate(0, 195)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="task2">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="task2">
+<text x="0.0" y="13.5" stroke="none" data-name="task2"><a href="https://www.google.com/search?TicketID4" target = "_blank">TicketID4</a><title>TicketID4: One last description
+Done (Programmer 4)</title></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
